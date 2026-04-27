@@ -1,0 +1,6 @@
+Flask
+ccxt
+pandas
+numpy
+gunicorn
+setuptools
