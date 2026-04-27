@@ -1,5 +1,0 @@
-Flask
-ccxt
-pandas
-numpy
-gunicorn
